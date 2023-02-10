@@ -1,0 +1,112 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	width:85%;
+	margin:auto;
+	
+}
+.main{
+	background-color:black;
+	height:10/;0vh;
+	width:80%;
+	margin:auto;
+	padding:3rem;
+	
+	
+}
+.page{
+	
+	padding:2rem;
+	margin:auto;
+	width:85%;
+	border:2px solid white;
+}
+.calculater {
+	display:flex;
+	justify-content:space-around;
+	margin:auto;
+	color:white;
+	padding:2rem;
+}
+.calculater h3{
+	color:white;
+	font-size:20px;
+}
+.date{
+	color:red;
+	border:2px solid yellow;
+	display:flex;
+	justify-content:space-around;
+	padding:2rem;
+	font-size:45px;
+	/* margin-top:2rem; */
+}
+.hour{
+	display:flex;
+	justify-content:space-around;
+	color:white;
+	margin:auto;
+	margin-top:2rem;
+}
+.min{
+	color:red;
+	border:2px solid yellow;
+	display:flex;
+	justify-content:space-around;
+	padding:2rem;
+	margin-top:2rem;
+}
+.after{
+	display:flex;
+	margin-top:2rem;
+	
+}
+.radius{
+	border-radius:50%;
+	width:21px;
+	height:21px;
+	/* background-color:red; */
+	border:1px solid white;
+	
+	
+}
+.eve{
+	display:flex;
+	justify-content:space-between;
+	margin-left:15px;
+}
+.red h3{
+	color:white;
+	display:flex;
+	justify-content:space-between;
+	margin-left:7px;
+}
+.day{
+	display:flex;
+	margin-top:2rem;
+	
+}
+
+.mon{
+	border-radius:50%;
+	width:21px;
+	height:21px;
+	/* background-color:red; */
+	border:1px solid white;
+	
+	
+}
+.sun{
+	display:flex;
+	justify-content:space-between;
+	margin-left:15px;
+}
+.tue h3{
+	color:white;
+	display:flex;
+	justify-content:space-between;
+	margin-left:7px;
+}
